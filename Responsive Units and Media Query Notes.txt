@@ -1,0 +1,16 @@
+- Line 88 PT unit is used for font size in body.
+
+- EM units used for font size and margins
+
+- On container max-width: 100% used with set width of 1400px
+
+- Media querys used on container min-width and max-width
+
+- Percentage widths and margins used in .row > cols
+
+- Portfolio Items get stacked at max-width: 736px for mobile view
+
+- Separate class names are used on elements to style them in media querys
+
+- Form textarea em units are used for padding, border=radius, and box-shadow
+
